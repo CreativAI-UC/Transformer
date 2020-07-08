@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+logs/
+maestro_encoded.zip
+maestro_encoded/
+tensorboard_logs/
